@@ -1,5 +1,13 @@
 # BooksManagingPortal
 
+Tech used :
+1. Front end -> HTML, CSS, Bootstrap
+2. Back end -> Php
+3. Database -> MySql
+
+The webpage was hosted on Mamp local server.
+
+
 
 ![screenshot][logo]
 
